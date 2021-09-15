@@ -1,0 +1,1 @@
+# diplom_portal_rksi_server
